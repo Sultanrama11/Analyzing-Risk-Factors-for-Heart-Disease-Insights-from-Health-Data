@@ -38,8 +38,7 @@ Heart disease distribution based on BMI
 Relationship between physical activity and heart disease
 Proportion of heart disease cases among smokers
 # Recommendations
-I
-nsights from this project suggest the following actions:
+Insights from this project suggest the following actions:
 
 Smoking cessation and promotion of active lifestyles
 Education on diabetes management and its link to heart health
